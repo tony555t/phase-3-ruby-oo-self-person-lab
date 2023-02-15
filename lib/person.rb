@@ -1,7 +1,7 @@
     # your code goes here
 
     require "pry"
-    class person
+    class Person
         attr_reader :name
         attr_accessor :bank_account,:happiness,:hygiene
 
@@ -74,7 +74,7 @@
 
     end
 
-    shukri = Person.new("jac")
+    toni = Person.new("jac")
 
 
 
